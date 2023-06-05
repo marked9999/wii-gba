@@ -1,0 +1,22 @@
+{
+    "name": "wii-gba",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/marked9999/wii-gba.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/marked9999/wii-gba/issues"
+    },
+    "homepage": "https://github.com/marked9999/wii-gba#readme"
+}
+ 
+
